@@ -1,0 +1,28 @@
+{
+  "name": "create-node-genie",
+  "version": "1.0.1",
+  "description": "A professional Node.js + Express + MongoDB project generator CLI",
+  "main": "index.js",
+  "bin": {
+    "create-node-genie": "./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "cli",
+    "boilerplate",
+    "generator"
+  ],
+  "author": "Deepak Sahu",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "fs-extra": "^11.3.1",
+    "inquirer": "^12.9.2"
+  }
+}
