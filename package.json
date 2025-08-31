@@ -1,6 +1,6 @@
 {
   "name": "create-node-genie",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A professional Node.js + Express + MongoDB project generator CLI",
   "main": "index.js",
   "bin": {
